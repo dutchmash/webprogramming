@@ -1,0 +1,107 @@
+	.my-container {
+		border: 0px solid black;
+	}
+	
+	.my-row {
+		border: 0px solid red;
+	}
+	
+	.my-col {
+		border: 0px solid blue;
+	}
+	
+	.no-padding {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	#logobg {
+		background-color: F8F9FA;
+	} 
+	
+	.navbar-nav {
+		float:none;
+		margin:0 auto;
+		display: block;
+		text-align: center;
+	}
+
+	.navbar-nav > li {
+		display: inline-block;
+		float:none;
+	}
+
+	#divbg {
+		background-color: #E9E9E9;
+		background-repeat: no-repeat;
+		background-position:center;
+	}
+	
+	#extrapadding {
+		padding-top: 20px;
+	}
+	
+	#extrapaddingbottom {
+		padding-bottom: 30px;
+	}
+	
+	.logotype {
+		padding-left: 5%;
+	}
+	
+	h1 {
+		font-family: Raleway;
+		font-size: 46px;
+		font-weight: bold;
+		padding-bottom: 5px;
+	}
+	
+	h2 {
+		padding-top: 30px;
+		padding-bottom: 5px;
+		font-weight: bold;
+		font-family: Raleway;
+	}
+	
+	h3 {
+		font-family: Raleway;
+	}
+	
+	h4 {
+		font-family: Raleway;
+	}
+	
+	h5 {
+		font-family: Raleway;
+	}
+	
+	h6 {
+		font-family: Raleway;
+		color: black;
+		font-size: 14px;
+	}
+	
+	.column {
+		display: none;
+	}
+
+	.show {
+		display: block;
+	}
+
+	.btn {
+		border: 1px solid black;
+	}
+	
+	.show {
+		display: block;
+	}
+	
+	.btn:hover {
+		background-color: #ddd;
+	}
+	
+	.btn.active {
+		background-color: #666;
+		color: white;
+	}
